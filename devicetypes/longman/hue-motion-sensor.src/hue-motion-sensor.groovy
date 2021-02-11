@@ -1,10 +1,9 @@
 /**
  *  Hue Motion Sensor
  *
- *  Copyright 2020 Avtandil Kikabidze
- *
  *  Licensed under the MIT License
  */
+
 import physicalgraph.zigbee.zcl.DataType
 
 metadata {

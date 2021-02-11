@@ -1,8 +1,6 @@
 /**
  *  Sonoff Temp & Humidity Sensor
  *
- *  Copyright 2021 Avtandil Kikabidze
- *
  *  Licensed under the MIT License
  */
 
